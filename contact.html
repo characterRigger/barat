@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Barat Ali | Contact</title>
+  <meta name="description" content="Get in touch with Barat Ali and download the latest resume.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container navbar">
+      <a class="brand" href="index.html"><img src="Logo/whilteLogo.png" alt="Barat Ali logo"></a>
+      <nav class="nav-links" aria-label="Primary navigation">
+        <a href="index.html">Home</a>
+        <a href="about.html">About Me</a>
+        <a href="tools.html">Rigging Development Tools</a>
+        <a class="active" href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="contact-simple-section">
+      <div class="container contact-simple-layout">
+        <div class="contact-image-card">
+          <img src="Posters/Hero.jpg" alt="Portfolio artwork">
+        </div>
+
+        <article class="contact-card contact-widget-card">
+          <p class="eyebrow">Contact</p>
+          <h1>Let’s connect</h1>
+
+          <form
+            id="contact-form"
+            class="contact-form"
+            action="https://formspree.io/f/yourformid"
+            method="POST"
+          >
+            <input type="hidden" name="_subject" value="New website message from Barat Ali portfolio">
+            <input type="hidden" name="_captcha" value="false">
+
+            <div class="form-row">
+              <label for="name">Name</label>
+              <input id="name" name="name" type="text" required>
+            </div>
+
+            <div class="form-row">
+              <label for="email">Email</label>
+              <input id="email" name="email" type="email" required>
+            </div>
+
+            <div class="form-row">
+              <label for="subject">Subject</label>
+              <input id="subject" name="subject" type="text" required>
+            </div>
+
+            <div class="form-row">
+              <label for="message">Message</label>
+              <textarea id="message" name="message" required></textarea>
+            </div>
+
+            <button class="btn btn-primary contact-send-btn" type="submit">Send Message</button>
+            <p id="form-status" class="form-status" aria-live="polite"></p>
+          </form>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-content">
+      <p>&copy; 2026 Barat Ali. All rights reserved.</p>
+      <div class="footer-links">
+        <a href="index.html">Home</a>
+        <a href="about.html">About Me</a>
+        <a href="tools.html">Rigging Development Tools</a>
+        <a href="contact.html">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

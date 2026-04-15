@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Ankle Volume Preservation",
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/Q6NNK_szL-g",
+    "description": "Rigging development demo showing ankle volume preservation during deformation.",
+    "points": [
+      "Volume preservation",
+      "Cleaner deformation",
+      "Animator-friendly result"
+    ]
+  },
+  {
+    "title": "Elbow Volume Preservation",
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/7B0XvL9h2Y4",
+    "description": "Rigging development demo showing elbow volume preservation during bending.",
+    "points": [
+      "Better elbow shape",
+      "Reduced collapse",
+      "Production-focused deformation"
+    ]
+  },
+  {
+    "title": "Hip Volume Preservation",
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/hzc264QMiZ4",
+    "description": "Rigging development demo showing hip volume preservation for character movement.",
+    "points": [
+      "Stable hip forms",
+      "Smooth deformation",
+      "Improved rig quality"
+    ]
+  },
+  {
+    "title": "Knee Volume Preservation",
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/TND3FlZYtew",
+    "description": "Rigging development demo showing knee volume preservation during animation poses.",
+    "points": [
+      "Cleaner knee bend",
+      "Better volume control",
+      "Animation-ready setup"
+    ]
+  },
+  {
+    "title": "Neck Volume Preservation",
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/rw_AHEaL5c0",
+    "description": "Rigging development demo showing neck volume preservation for head and neck motion.",
+    "points": [
+      "Smooth neck motion",
+      "Reduced stretching",
+      "Natural deformation"
+    ]
+  },
+  {
+    "title": "Shoulder Volume Preservation",
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/uxbiubjTDfA",
+    "description": "Rigging development demo showing shoulder volume preservation for complex arm movement.",
+    "points": [
+      "Improved shoulder shape",
+      "Better arm motion",
+      "Cleaner deformation"
+    ]
+  },
+  {
+    "title": "Wrist Volume Preservation",
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/8yP6T2U92qM",
+    "description": "Rigging development demo showing wrist volume preservation during rotation.",
+    "points": [
+      "Stable wrist volume",
+      "Clean twisting",
+      "Better deformation control"
+    ]
+  }
+]
